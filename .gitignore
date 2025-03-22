@@ -49,3 +49,6 @@ coverage.xml
 # Mypy
 .mypy_cache/
 .dmypy.json
+
+# Memory
+storage/memories/

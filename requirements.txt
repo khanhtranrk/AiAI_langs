@@ -1,0 +1,8 @@
+langchain==0.3.21
+langchain-google-genai==2.1.1
+pydantic-settings==2.8.1
+langchain-community==0.3.20
+beautifulsoup4==4.13.3
+chromadb==0.6.3
+textual==2.1.2
+shortuuid==1.0.13
